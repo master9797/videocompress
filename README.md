@@ -1,5 +1,7 @@
 # videocompress
 
+Download the zip file add to folder and implement to your project
+
 You must start compression in another thread. Ideally AsyncTask(). view the code below:
 
 VideoCompress library for Android is open source project. I made some changes in MediaController class from "Telegram" application. Removed some unused codes and change the video size to max size 480. You can change that value in MediaController.java by changing all values which 480.
